@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.rosado{
+    width: 200px;
+    height: 200px;
+    background-color: #ee3e64;
+    position: static;
+    
+}
+
+.celeste{
+     width: 200px;
+    height: 200px;
+    background-color: #44accf;
+    position: static;
+    
+    
+}
+.verde{
+     width: 200px;
+    height: 200px;
+    background-color: #bcd84b;
+    position: static;
+    
+    
+}
